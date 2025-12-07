@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Boskovii.github.io//sitemap.xml
+Sitemap: https://aleksandarboskovic.github.io//sitemap.xml
