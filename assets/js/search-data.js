@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Academic and professional experience in mechanical engineering, robotics, and human-robot interaction.",
+          description: "Academic and professional experience in mechanical engineering, robotics, and biomechanics.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
