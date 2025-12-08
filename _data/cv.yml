@@ -3,14 +3,14 @@
   contents:
     - name: Full Name
       value: Aleksandar Bošković
+    - name: Label
+      value: Wearable Robotics Researcher
     - name: Location
       value: Atlanta, GA
     - name: Email
       value: aboskovic3@gatech.edu
     - name: Phone
       value: (339) 368-4217
-    - name: LinkedIn
-      value: linkedin.com/in/aboskovic3
 
 - title: Education
   type: time_table
@@ -21,15 +21,43 @@
       description:
         - Overall GPA: 4.00 / 4.00
         - Thesis: A Framework for Evaluating Physical Human–Robot Interface Design (expected Spring 2026)
+        - title: Relevant Coursework
+          contents:
+            - "ME 2110 (Creative Decisions & Design)"
+            - "ME 3017 (System Dynamics)"
+            - "ME 3180 (Machine Design)"
+            - "ME 3057 (Experimental Methods & Technical Writing)"
+            - "ME 4451 (Robotics)"
+            - "ISYE 3770 (Statistics & Applications)"
+            - "CS 1332 (Data Structures & Algorithms)"
+            - "ME 2699 (Undergraduate Research & Proposal Writing)"
 
-- title: Research Interests
+- title: Summary
   type: list
   contents:
-    - Human–Robot Interaction
-    - Wearable Robotics
-    - Haptics
-    - Surgical Robotics
-    - Medical Devices
+    - Undergraduate researcher in mechanical engineering with experience in wearable robotics, human–robot interfaces, biomechanical testing, and experimental motion analysis. Skilled in designing mechanisms, building multimodal sensing pipelines, and conducting human-subject evaluations. Interested in advancing robotic systems that align with human movement and enhance mobility.
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Undergraduate Researcher
+      institution: Exoskeleton and Prosthetic Intelligent Controls Lab, Georgia Tech
+      year: Aug 2023 – Present
+      description:
+        - Designed passive 3-DOF planar mobility mechanism for hip exoskeleton thigh interface
+        - Reduced strut mass by 35% using SolidWorks FEA while improving stiffness
+        - Built prototypes using SLS/SLA/FDM and carbon-fiber layups
+        - Collected multimodal locomotion datasets (VICON, EMG, IMUs, pressure insoles, force plates)
+        - Performed clinical assessments (Fugl-Meyer) with stroke participants
+        - Mentored undergraduate researchers and coordinated team tasks
+    - title: Undergraduate Researcher
+      institution: Physiology of Wearable Robotics Lab, Georgia Tech
+      year: Aug 2024 – May 2025
+      description:
+        - Developed motor-driven robotic dynamometer for plantar-flexion work loops
+        - Designed structural components in Fusion 360 and selected actuators via MATLAB modeling
+        - Fabricated aluminum and steel hardware with waterjet machining, welding, and turning
+        - Improved rigidity and measurement fidelity of existing open-source testbed
 
 - title: Experience
   type: time_table
@@ -75,18 +103,6 @@
 - title: Research Projects
   type: time_table
   contents:
-    - title: V6 Robotic Hip Exoskeleton
-      institution: Exoskeleton and Prosthetic Intelligent Controls Lab
-      year: Aug 2023 – Present
-      url: /projects/1_project/
-      description:
-        - Designed and manufactured a novel thigh interface with a passive 3-DOF planar mobility mechanism mitigating skin irritation caused by misalignment between hip joint and actuator axes
-        - Used SolidWorks FEA to improve structural design of thigh struts, reducing mass by over 35%
-        - Fabricated prototypes using SLS/SLA/FDM 3D printing and manufactured final components using wet-laminated and prepreg carbon-fiber layups
-        - Collected kinematic datasets from able-bodied and stroke-impaired participants using VICON across cyclic and non-cyclic locomotor tasks
-        - Built multimodal datasets (infrared markers, force plates, EMG, IMUs, insole pressure, gait mapping) and automated validation tools in MATLAB to flag gaps and errors
-        - Performed clinical evaluations of stroke participants using the Fugl-Meyer Assessment to correlate movement data with impairment severity
-        - Coordinated a team of undergraduate researchers, mentoring new members and supporting technical development
     - title: Dynamic Simulation of Hip–Knee Joint Mechanics
       institution: "ME3017: System Dynamics"
       year: Jan 2025 – May 2025
@@ -95,15 +111,6 @@
         - Developed a double-pendulum model of human hip and knee dynamics using torsional springs and dampers to represent ligament stiffness, muscle damping, and gravity
         - Used anthropometric data to derive nonlinear differential equations and linearized them about equilibrium to analyze stability, frequency response, and transient behavior
         - Simulated torques corresponding to martial-arts kicks, soccer strikes, and rehabilitative cycling; compared nonlinear and linear system performance using MATLAB
-    - title: Robotic Dynamometer
-      institution: Physiology of Wearable Robotics Lab
-      year: Aug 2024 – May 2025
-      url: /projects/2_project/
-      description:
-        - Identified and corrected structural issues in an open-source ankle work-loop platform to increase rigidity and isolate soleus activity
-        - Designed a custom motor-driven dynamometer in Fusion 360 to replace a weight stack, enabling variable-speed and complex loading tests
-        - Selected motor and gearbox components capable of exceeding human plantar-flexion torque via MATLAB torque-speed modeling
-        - Fabricated brackets and structural bars via waterjet and drill press; designed a reinforced motor mount for welding; machined steel hard-stop bars to prevent overextension
     - title: Design and Control of an Autonomous Robot
       institution: "ME2110: Creative Decisions and Design"
       year: Jan 2024 – May 2024
@@ -171,14 +178,8 @@
         - Waterjet
         - Femtosecond laser ablation
 
-- title: Relevant Coursework
+- title: Languages
   type: list
   contents:
-    - Robotics
-    - Machine Design
-    - System Dynamics
-    - Statistics & Applications
-    - Data Structures & Algorithms
-    - Experimental Methods & Technical Writing
-    - Creative Decisions & Design
-    - Undergraduate Research & Proposal Writing
+    - Serbian (Native Speaker)
+    - German (Intermediate)

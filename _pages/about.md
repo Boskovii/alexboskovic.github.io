@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.me.gatech.edu/'>Georgia Institute of Technology</a>. Atlanta, GA. Mechanical Engineering.
+subtitle: <a href='https://www.me.gatech.edu/'>George W. Woodruff School of Mechanical Engineering, Georgia Institute of Technology</a>
 
 profile:
   align: right
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student at the Georgia Institute of Technology pursuing a Bachelor of Science in Mechanical Engineering, expected to graduate in May 2026. My research focuses on **Human–Robot Interaction**, **Wearable Robotics**, **Haptics**, **Surgical Robotics**, and **Medical Devices**.
+I am an undergraduate student at the Georgia Institute of Technology pursuing a B.S. in Mechanical Engineering (expected May 2026). My research focuses on human–robot interaction, wearable robotics, and biomechanical systems. Broadly, I am interested in how user-centered design can improve the comfort and function of devices that physically interact with the human body.
 
-Currently, I work in the Exoskeleton and Prosthetic Intelligent Controls Lab, where I design and develop robotic hip exoskeletons. My work includes designing novel thigh interfaces with passive mobility mechanisms, conducting clinical evaluations with stroke-impaired participants, and building multimodal datasets for human-robot interaction research.
+I currently work in the Exoskeleton and Prosthetic Intelligent Controls Lab under Dr. Aaron Young, where I lead an undergraduate team developing a robotic hip exoskeleton for post-stroke mobility restoration. My work includes designing and prototyping the exoskeleton's physical components, evaluating device performance with stroke-impaired participants, and building movement datasets using VICON motion capture, force plates, EMG, IMUs, and insole pressure sensors.
 
-I have experience in mechanical design, rapid prototyping, and clinical research, with a strong foundation in robotics, system dynamics, and experimental methods. My goal is to advance wearable robotic technologies that improve human mobility and rehabilitation outcomes.
+I have a strong foundation in mechanical design, rapid prototyping, and human-subject research. My technical skills span CAD, FEA, carbon-fiber fabrication, system dynamics modeling, and experimental biomechanics. I am motivated by building wearable robots that integrate with human biomechanics to promote mobility and rehabilitation.

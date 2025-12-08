@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Research and course projects in robotics, biomechanics, and mechanical design.
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [research, course projects]
 horizontal: false
 ---
