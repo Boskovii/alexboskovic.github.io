@@ -1,8 +1,8 @@
 ---
 layout: page
-title: V6 Robotic Hip Exoskeleton
-description: Novel thigh interface with passive 3-DOF planar mobility mechanism for stroke rehabilitation
-img: assets/img/12.jpg
+title: Robotic Hip Exoskeleton
+description: Development of a hip exoskeleton system from conceptual design through prototyping and clinical testing
+img: assets/img/full_exo_front.png
 importance: 1
 category: research
 related_publications: true

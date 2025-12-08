@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student at the Georgia Institute of Technology pursuing a B.S. in Mechanical Engineering, graduating in May 2026. My research focuses on human-robot interaction, wearable robotics, and biomechanical systems. Broadly, I am interested in leveraging user-centered design to improve the functionality and user comfort of devices that physically interact with the human body.
+I am an undergraduate student at the Georgia Institute of Technology pursuing a B.S. in Mechanical Engineering, graduating in May 2026. My research focuses on human-robot interaction, wearable robotics, and biomechanical systems. Broadly, I am interested in leveraging user-centered design to improve the functionality and comfort of devices that physically interact with the human body.
 
 I currently work in the Exoskeleton and Prosthetic Intelligent Controls Lab under Dr. Aaron Young, where I lead an undergraduate team developing a robotic hip exoskeleton for post-stroke mobility restoration. My work includes designing and prototyping the exoskeleton's mechanical components, evaluating device performance with stroke-impaired users, and building movement datasets using VICON motion capture, force plates, EMG, IMUs, and insole pressure sensors.
 

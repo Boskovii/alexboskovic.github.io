@@ -1,0 +1,278 @@
+{
+  "basics": {
+    "name": "Aleksandar Bošković",
+    "label": "Mechanical Engineering Student",
+    "image": "",
+    "email": "aboskovic3@gatech.edu",
+    "phone": "(339) 368-4217",
+    "url": "https://Boskovii.github.io",
+    "summary": "Undergraduate student at Georgia Institute of Technology pursuing a Bachelor of Science in Mechanical Engineering. Research focuses on Human–Robot Interaction, Wearable Robotics, Haptics, Surgical Robotics, and Medical Devices.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Atlanta",
+      "countryCode": "US",
+      "region": "Georgia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "aboskovic3",
+        "url": "https://linkedin.com/in/aboskovic3"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Boston Scientific",
+      "position": "Process Development Intern",
+      "url": "",
+      "startDate": "2025-05-01",
+      "endDate": "2025-08-31",
+      "summary": "Improved fidelity and speed of a laser ablation system by developing an empirically driven marking file, reducing cycle time by 64% and saving 2300+ annual machine hours. Conducted root-cause analysis on heat-affected zones using SEM; collaborated across teams to increase process robustness.",
+      "highlights": [
+        "Reduced cycle time by 64% and saved 2300+ annual machine hours",
+        "Conducted root-cause analysis using SEM",
+        "Measured sputtered-ceramic thickness via XRF and ran statistical analysis in Minitab"
+      ]
+    },
+    {
+      "name": "Undergraduate Research Ambassadors, Georgia Tech",
+      "position": "Campus Relations & Events Committees",
+      "url": "",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "Organized workshops with GT's Office of Undergraduate Education & Student Success to guide students through research opportunities, graduate school preparation, and fellowships.",
+      "highlights": [
+        "Organized workshops for research opportunities and graduate school preparation",
+        "Supported research programming by staffing fairs and coordinating lab tours"
+      ]
+    },
+    {
+      "name": "ME2110: Creative Decisions and Design, Georgia Tech",
+      "position": "Lab Supervising Grader",
+      "url": "",
+      "startDate": "2024-08-01",
+      "endDate": "2025-05-31",
+      "summary": "Supervised labs and coached students on design and construction of robotic systems. Trained students in Arduino-based control and safe rapid-prototyping techniques.",
+      "highlights": [
+        "Supervised labs and coached students on robotic systems",
+        "Trained students in Arduino-based control and rapid-prototyping"
+      ]
+    },
+    {
+      "name": "Flowers Invention Studio, Georgia Tech",
+      "position": "Prototyping Instructor",
+      "url": "",
+      "startDate": "2024-06-01",
+      "endDate": "",
+      "summary": "Trained students and faculty on safe and effective use of shop tools and rapid prototyping equipment. Supported fabrication across woodworking, metalworking, 3D printing, electronics, and laser cutting.",
+      "highlights": [
+        "Trained students and faculty on shop tools and rapid prototyping",
+        "Supported fabrication across multiple manufacturing processes"
+      ]
+    },
+    {
+      "name": "Georgia Tech Robotics Summer Institute",
+      "position": "Undergraduate Volunteer",
+      "url": "",
+      "startDate": "2024-07-01",
+      "endDate": "2024-07-31",
+      "summary": "Helped high school students build autonomous robots and program Arduino-based systems. Moderated a panel advising participants on college admissions and STEM pathways.",
+      "highlights": [
+        "Helped high school students build autonomous robots",
+        "Moderated panel on college admissions and STEM pathways"
+      ]
+    },
+    {
+      "name": "HyTech Racing",
+      "position": "Driver Controls Team Member",
+      "url": "",
+      "startDate": "2022-08-01",
+      "endDate": "2023-12-31",
+      "summary": "Evaluated ergonomic control designs to reduce user error. Designed lightweight harness-mount spacers and custom brake-fluid reservoir fittings.",
+      "highlights": [
+        "Evaluated ergonomic control designs",
+        "Designed and machined custom components"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Georgia Institute of Technology",
+      "location": "Atlanta, GA",
+      "url": "https://www.gatech.edu/",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2022-08-01",
+      "endDate": "2026-05-31",
+      "score": "4.00",
+      "courses": [
+        "Robotics",
+        "Machine Design",
+        "System Dynamics",
+        "Statistics & Applications",
+        "Data Structures & Algorithms",
+        "Experimental Methods & Technical Writing",
+        "Creative Decisions & Design",
+        "Undergraduate Research & Proposal Writing"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Chair's Ambassadors in Leadership and Service Fellowship",
+      "date": "2025-09-01",
+      "awarder": "Georgia Institute of Technology",
+      "url": "",
+      "summary": "Fall 2025"
+    },
+    {
+      "title": "Faculty Honors",
+      "date": "2025-01-01",
+      "awarder": "Georgia Institute of Technology",
+      "url": "",
+      "summary": "Spring 2025, Fall 2024, Spring 2024, Fall 2023, Spring 2023, Fall 2022"
+    },
+    {
+      "title": "President's Undergraduate Research Award",
+      "date": "2024-06-01",
+      "awarder": "Georgia Institute of Technology",
+      "url": "",
+      "summary": "Summer 2024"
+    }
+  ],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Ergonomic Robotic Hip Exoskeleton Design with Integrated Second-Skin On-Body Sensing",
+      "publisher": "IEEE Robotics and Automation Letters",
+      "releaseDate": "2025-12-01",
+      "url": "",
+      "summary": "Submitted December 2025. Authors: Mhaskar, Y., Park, D., Bošković, A., Young, A."
+    },
+    {
+      "name": "Design and Validation of a Robotic Dynamometer to Measure Dynamic Human Work Loop and Force Control",
+      "publisher": "Manuscript in preparation",
+      "releaseDate": "2025-12-01",
+      "url": "",
+      "summary": "Expected December 2025. Authors: Alshareef, A., Bošković, A., Houle, D., Kousik, S., Sawicki, G."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Proficient",
+      "keywords": [
+        "MATLAB",
+        "Arduino",
+        "Python",
+        "Java"
+      ]
+    },
+    {
+      "name": "Design",
+      "level": "Proficient",
+      "keywords": [
+        "SolidWorks",
+        "3DExperience CATIA",
+        "Fusion 360",
+        "FEA",
+        "Engineering drawings"
+      ]
+    },
+    {
+      "name": "Analysis",
+      "level": "Proficient",
+      "keywords": [
+        "SEM",
+        "VHX microscopy",
+        "XRF",
+        "Minitab"
+      ]
+    },
+    {
+      "name": "Manufacturing",
+      "level": "Proficient",
+      "keywords": [
+        "3D printing (FDM/SLA/SLS)",
+        "Carbon-fiber layup",
+        "Laser cutting",
+        "Metal lathe",
+        "Waterjet",
+        "Femtosecond laser ablation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Human–Robot Interaction",
+        "Wearable Robotics",
+        "Haptics",
+        "Surgical Robotics",
+        "Medical Devices"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "V6 Robotic Hip Exoskeleton",
+      "summary": "Designed and manufactured a novel thigh interface with a passive 3-DOF planar mobility mechanism mitigating skin irritation caused by misalignment between hip joint and actuator axes. Used SolidWorks FEA to improve structural design, reducing mass by over 35%.",
+      "highlights": [
+        "Designed passive 3-DOF planar mobility mechanism",
+        "Reduced mass by over 35% using FEA optimization",
+        "Collected multimodal datasets from able-bodied and stroke-impaired participants",
+        "Performed clinical evaluations using Fugl-Meyer Assessment"
+      ],
+      "startDate": "2023-08-01",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Dynamic Simulation of Hip–Knee Joint Mechanics",
+      "summary": "Developed a double-pendulum model of human hip and knee dynamics using torsional springs and dampers. Simulated torques for martial-arts kicks, soccer strikes, and rehabilitative cycling.",
+      "highlights": [
+        "Developed double-pendulum model with nonlinear dynamics",
+        "Analyzed stability, frequency response, and transient behavior",
+        "Compared nonlinear and linear system performance"
+      ],
+      "startDate": "2025-01-01",
+      "endDate": "2025-05-31",
+      "url": ""
+    },
+    {
+      "name": "Robotic Dynamometer",
+      "summary": "Designed a custom motor-driven dynamometer to replace a weight stack, enabling variable-speed and complex loading tests for ankle work-loop platform.",
+      "highlights": [
+        "Designed custom motor-driven dynamometer",
+        "Selected motor and gearbox components via MATLAB modeling",
+        "Fabricated components using waterjet, drill press, and machining"
+      ],
+      "startDate": "2024-08-01",
+      "endDate": "2025-05-31",
+      "url": ""
+    },
+    {
+      "name": "Design and Control of an Autonomous Robot",
+      "summary": "Programmed an autonomous robot in Arduino integrating IR/ultrasonic sensors with motors, solenoids, and pneumatic actuation. Designed a low-profile scissor lift extending 4.5 ft from a 4-in collapsed height.",
+      "highlights": [
+        "Integrated multiple sensor types with actuators",
+        "Designed and machined custom scissor lift mechanism",
+        "Built rapid-deploy obstacle clearing mechanism"
+      ],
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-31",
+      "url": ""
+    }
+  ]
+}

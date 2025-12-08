@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Dynamic Simulation of Hip–Knee Joint Mechanics
+title: Dynamic Simulation of Hip-Knee Joint Mechanics
 description: Double-pendulum model for analyzing human lower-limb dynamics and stability
-img: assets/img/5.jpg
+img: assets/img/biomechanics_system_dynamics.png
 importance: 3
 category: course projects
 ---

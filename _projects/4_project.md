@@ -2,7 +2,7 @@
 layout: page
 title: Design and Control of an Autonomous Robot
 description: Autonomous robot with scissor lift mechanism and obstacle clearing capabilities
-img: assets/img/7.jpg
+img: assets/img/subject.png
 importance: 4
 category: course projects
 ---
