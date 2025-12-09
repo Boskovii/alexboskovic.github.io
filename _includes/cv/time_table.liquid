@@ -76,7 +76,7 @@
                       {% endfor %}
                     </ul>
                   {% else %}
-                    <span class="item">{{ item }}</span>
+                    <span class="item">{{ item | replace: '<em>', '<em style="font-style: italic; font-family: inherit;">' | replace: '<i>', '<i style="font-style: italic; font-family: inherit;">' }}</span>
                   {% endif %}
                 </li>
               {% endfor %}
@@ -84,20 +84,14 @@
           {% endif %}
           {% if content.items %}
             {% if entry.title == 'Honors and Awards' %}
-              <div class="ml-1 ml-md-4">
+              <div class="ml-1 ml-md-4 no-math">
                 {% for item in content.items %}
-                  <div>
+                  <div style="margin-bottom: 0.75rem;">
                     {% if item.contents %}
-                      <span class="item-title">{{ item.title }}</span>
-                      <ul class="subitems">
-                        {% for subitem in item.contents %}
-                          <li>
-                            <span class="subitem">{{ subitem }}</span>
-                          </li>
-                        {% endfor %}
-                      </ul>
+                      <div style="font-weight: bold; margin-bottom: 0.25rem; font-family: inherit; font-style: normal;">{{ item.title }}</div>
+                      <div style="font-weight: normal; font-style: normal; font-family: inherit;" class="no-math">{{ item.contents[0] }}</div>
                     {% else %}
-                      <span class="item">{{ item }}</span>
+                      <span class="item no-math" style="font-family: inherit;">{{ item }}</span>
                     {% endif %}
                   </div>
                 {% endfor %}

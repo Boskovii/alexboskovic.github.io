@@ -94,7 +94,7 @@
       year: Expected May 2026
       description:
         - "Overall GPA: 4.00 / 4.00"
-        - "Thesis: A Framework for Evaluating Physical Human–Robot Interface Design, expected Spring 2026"
+        - "Thesis: <em>A Framework for Evaluating Physical Human–Robot Interface Design</em>, expected Spring 2026"
         - title: Relevant Coursework
           contents:
             - "ME 4451 (Robotics)"
@@ -110,13 +110,19 @@
   contents:
     - year: Fall 2025
       items:
-        - Chair's Ambassadors in Leadership and Service Fellowship
+        - title: "Chair's Ambassadors in Leadership and Service Fellowship"
+          contents:
+            - "This &#36;1,000 award is given to 10 students in the Woodruff School of Mechanical Engineering each fall semester, with an additional &#36;1,000 awarded in the spring. Students are selected by the Chair based on their academic standing and contributions in leadership and service to the Woodruff School."
     - year: Summer 2024
       items:
-        - President's Undergraduate Research Award
+        - title: "President's Undergraduate Research Award"
+          contents:
+            - "Awards of &#36;1,500 are offered each semester across all majors. Students are evaluated on a 2-part proposal consisting of a 2-page project description and a 1-page statement of mentor/mentee expectations. Funded full-time research in the EPIC Lab in Summer 2024."
     - year: Fall 2022 – Spring 2025
       items:
-        - Faculty Honors
+        - title: "Faculty Honors"
+          contents:
+            - "Awarded every semester since Fall 2022 for maintaining an academic average of 4.00, completing a schedule of at least 12 hours of coursework on a letter-grade basis with no W grades, and not being on academic warning or probation or subject to any disciplinary action."
 
 - title: Presentations
   type: time_table
