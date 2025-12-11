@@ -422,7 +422,12 @@ ninja.data = [{
           section: "News",},{id: "news-submitted-thesis-proposal-a-framework-for-evaluating-physical-human-robot-interface-design-to-georgia-tech-undergraduate-research-opportunities-program-gt-urop",
           title: 'Submitted thesis proposal “A Framework for Evaluating Physical Human–Robot Interface Design” to Georgia...',
           description: "",
-          section: "News",},{id: "projects-robotic-hip-exoskeleton",
+          section: "News",},{id: "projects-interface-design-evaluation-framework",
+          title: 'Interface Design Evaluation Framework',
+          description: "A framework for evaluating physical human-robot interfaces in prolonged-contact applications",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-robotic-hip-exoskeleton",
           title: 'Robotic Hip Exoskeleton',
           description: "Development of a hip exoskeleton from conceptual design through prototyping and clinical testing.",
           section: "Projects",handler: () => {
