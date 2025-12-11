@@ -44,7 +44,7 @@ _styles: |
 **ME3017: System Dynamics**  
 *Instructor: Prof. Shreyas Kousik* | Jan 2025 – May 2025
 
-I developed a nonlinear dynamic model of the coupled hip-knee-ankle system to analyze how applied joint torques produce leg motion in the sagittal plane. The project involved deriving the governing equations for a double pendulum with torsional springs and dampers, parameterizing the model using anthropometric data, linearizing the system around equilibrium, and comparing nonlinear vs. linear predictions for real movement tasks.
+As part of a team project, I developed a nonlinear dynamic model of the coupled hip-knee-ankle system to analyze how applied joint torques produce leg motion in the sagittal plane. The project involved deriving the governing equations for a double pendulum with torsional springs and dampers, parameterizing the model using anthropometric data, linearizing the system around equilibrium, and comparing nonlinear vs. linear predictions for real movement tasks.
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0" style="max-width: 650px; margin: 0 auto;">
@@ -241,9 +241,7 @@ The linear model accurately predicted behavior only for small perturbations. For
     </div>
 </div>
 
-To analyze transient response to small perturbations, I applied a Dirac delta (impulse) function rather than a step input, as muscles generate force through rapid contractions rather than sustained constant torques. An impulse of 15 Nm over 0.01 s it thus more physiologically realistic.
-
-The system exhibited small-magnitude oscillations (peak displacement < 0.17°) with surprisingly long settling times of approximately 20 seconds, consistent with the slightly underdamped behavior expected from our damping ratios.
+To analyze transient response to small perturbations, I applied a Dirac delta (impulse) function rather than a step input, as muscles generate force through rapid contractions rather than sustained constant torques. An impulse of 15 Nm over 0.01 seconds it thus more physiologically realistic. The system exhibited small-magnitude oscillations (peak displacement < 0.17°) with surprisingly long settling times of approximately 20 seconds, consistent with the slightly underdamped behavior expected from our damping ratios.
 
 <div class="row">
     <div class="col-sm-12 mt-3 mt-md-0" style="max-width: 800px; margin: 0 auto;">
