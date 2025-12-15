@@ -2,7 +2,7 @@
 layout: page
 title: Robotic Dynamometer
 description: Custom motor-driven dynamometer for measuring dynamic human work loop and force control
-img: assets/img/dyno_side_thumb.png
+img: assets/img/dyno_side.png
 importance: 2
 category: research
 ---
