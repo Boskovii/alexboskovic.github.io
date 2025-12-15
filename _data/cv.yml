@@ -142,13 +142,6 @@
     - "Analysis: SEM, VHX microscopy, XRF, Minitab"
     - "Manufacturing: 3D printing (FDM/SLA/SLS), Carbon-fiber layup, Laser cutting, Metal lathe, Waterjet, Femtosecond laser ablation"
 
-- title: Languages
-  type: list
-  contents:
-    - English (Native Speaker)
-    - Serbian (Native Speaker)
-    - German (Intermediate)
-
 - title: Projects
   type: time_table
   contents:
@@ -168,3 +161,10 @@
         - Programmed an autonomous robot in Arduino integrating IR/ultrasonic sensors with motors, solenoids, and pneumatic actuation
         - Designed a low-profile scissor lift extending 4.5 ft from a 4-in collapsed height; machined a custom aluminum spool on a lathe
         - Built a rapid-deploy mechanism using drawer slides and pneumatic actuation to clear obstacles
+
+- title: Languages
+  type: list
+  contents:
+    - English (Native Speaker)
+    - Serbian (Native Speaker)
+    - German (Intermediate)
