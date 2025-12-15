@@ -38,7 +38,7 @@ To support isokinetic and variable-speed loading, I designed a new motor-driven 
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0" style="max-width: 600px; margin: 0 auto;">
-        {% include figure.liquid loading="eager" path="assets/img/dyno_side_page.PNG" caption="Motor-driven dynamometer with reinforced frame and custom motor mount." class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dyno_side_page.png" caption="Motor-driven dynamometer with reinforced frame and custom motor mount." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
